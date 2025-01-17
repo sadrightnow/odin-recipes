@@ -1,0 +1,1 @@
+After creating my first Ruby on Rails project (A website for Seventh Circle Music Collective) I decided to return to the basics. I did go in with some level or Ruby knowledge, but I didn't have any CSS or HTML knowledge so I decided to learn them from the ground up with the Odin Project.
